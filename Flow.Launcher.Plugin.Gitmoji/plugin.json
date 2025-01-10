@@ -1,0 +1,12 @@
+{
+    "ID": "3E4FD3C74AA649F18FBDC14940A221D0",
+    "ActionKeyword": "gm",
+    "Name": "Gitmoji",
+    "Description": "A Gitmoji plugin for Flow Launcher using API to always use the latest gitmoji schema.",
+    "Author": "1sabelle",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/1sabelle/Flow.Launcher.Plugin.Gitmoji",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.Gitmoji.dll"
+}
