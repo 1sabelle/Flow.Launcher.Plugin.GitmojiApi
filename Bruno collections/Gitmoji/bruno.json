@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Gitmoji",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
